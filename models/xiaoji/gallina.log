@@ -1,0 +1,87 @@
+	Exporter version: 4.6.1, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  E:\demo\unity\exportFiles\blender\xiaoji\
+	Python World class constructor completed
+	processing begun of skeleton:  Esqueleto, id:  0
+		processing begun of bone:  Bone, index:  0
+		processing begun of bone:  Bone.001, index:  1
+		processing begun of bone:  Bone.002, index:  2
+		processing begun of bone:  Bone.003, index:  3
+		processing begun of bone:  Bone.004, index:  4
+		processing begun of bone:  Bone.008, index:  5
+		processing begun of bone:  Bone.009, index:  6
+		processing begun of bone:  Bone.014, index:  7
+		processing begun of bone:  Bone.015, index:  8
+		processing begun of bone:  Bone.016, index:  9
+		processing begun of bone:  Bone.017, index:  10
+		processing begun of bone:  Bone.005, index:  11
+		processing begun of bone:  Bone.006, index:  12
+		processing begun of bone:  Bone.007, index:  13
+		processing begun of bone:  Bone.010, index:  14
+		processing begun of bone:  Bone.011, index:  15
+		processing begun of bone:  Bone.012, index:  16
+		processing begun of bone:  Bone.013, index:  17
+		processing action caminar:  in[1 - 3], out[0 - 3]
+		processing action EsqueletoAction:  in[1 - 28], out[10 - 38]
+		processing action idle:  in[1 - 116], out[50 - 166]
+		processing action idle2:  in[1 - 19], out[180 - 199]
+		processing action picotear:  in[1 - 37], out[210 - 247]
+	processing begun of mesh:  Cilindro
+		processing begun of Standard material:  Material
+			Diffuse texture found "cuerpo"
+				Image texture found, type:  diffuseTexture, mapped using: "MapaUV"
+		num positions      :  1243
+		num normals        :  1243
+		num uvs            :  2486
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5436
+		Skeleton stats:  
+			Total Influencers:  2785
+			Avg # of influencers per vertex:  2.2405
+			Highest # of influencers observed:  6, num vertices with this:  21
+			exported as 6 influencers
+			num skeletonWeights and skeletonIndices:  9944
+	processing begun of mesh:  Cilindro.010
+		processing begun of Standard material:  Material.003
+			Diffuse texture found "Textura.001"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2008
+		num normals        :  2008
+		num uvs            :  4016
+		num uvs2           :  4016
+		num colors         :  0
+		num indices        :  5538
+		Skeleton stats:  
+			Total Influencers:  3557
+			Avg # of influencers per vertex:  1.7714
+			Highest # of influencers observed:  4, num vertices with this:  151
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  8032
+	processing begun of mesh:  Cilindro.001
+		processing begun of Standard material:  Material.001
+			Diffuse texture found "pataderecha"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2067
+		num normals        :  2067
+		num uvs            :  4134
+		num uvs2           :  4134
+		num colors         :  0
+		num indices        :  5658
+		Skeleton stats:  
+			Total Influencers:  3750
+			Avg # of influencers per vertex:  1.8142
+			Highest # of influencers observed:  4, num vertices with this:  173
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  8268
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	WARNING: The following lamp not visible in scene thus ignored: Lamp.001
+	WARNING: The following lamp not visible in scene thus ignored: Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.2198 secs
