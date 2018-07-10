@@ -1,0 +1,47 @@
+newmtl sun_walk:Material__45
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-10ce03a0.dds
+bump SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-10cddea0.dds -bm 1
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl sun_walk:Material__47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-10cddfc0.dds
+bump SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-11232540.dds -bm 1
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl sun_walk:Material__49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-1125d1a0.dds
+bump SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-112b3660.dds -bm 1
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl sun_walk:Material__51
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-11309660.dds
+bump SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-10c299a0.dds -bm 1
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl sun_walk:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SUN Online - ver 0 7 5 4 ( Protocol ver   2 5 3 )-10cddfc0.dds
+Ni 1.00

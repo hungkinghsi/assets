@@ -1,0 +1,290 @@
+Exporter version: 5.6.3, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  C:\Users\Administrator\Documents\modelsExports\
+	Python World class constructor completed
+	processing begun of mesh:  City_building_023
+		processing begun of Standard material:  building_16
+			Ambient texture found "Ka.002"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.002"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  425
+		num normals        :  425
+		num uvs            :  850
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  City_building_036
+		processing begun of Standard material:  3db___building_06
+			Ambient texture found "Ka.005"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.005"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2542
+		num normals        :  2542
+		num uvs            :  5084
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4197
+	processing begun of mesh:  City_building_026
+		processing begun of Standard material:  09___Default
+			Ambient texture found "Ka.006"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.006"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  3448
+		num normals        :  3448
+		num uvs            :  6896
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8232
+	processing begun of mesh:  City_building_017
+		processing begun of Standard material:  orig_orig_orig_17___Default
+			Ambient texture found "Ka.004"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.004"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  3573
+		num normals        :  3573
+		num uvs            :  7146
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4968
+	processing begun of mesh:  City_building_034
+		registered as also a user of material:  09___Default
+		num positions      :  2646
+		num normals        :  2646
+		num uvs            :  5292
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6378
+	processing begun of mesh:  City_building_016
+		registered as also a user of material:  orig_orig_orig_17___Default
+		num positions      :  3564
+		num normals        :  3564
+		num uvs            :  7128
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4968
+	processing begun of mesh:  City_building_007
+		registered as also a user of material:  building_16
+		num positions      :  425
+		num normals        :  425
+		num uvs            :  850
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  City_building_038
+		registered as also a user of material:  09___Default
+		num positions      :  3023
+		num normals        :  3023
+		num uvs            :  6046
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7386
+	processing begun of mesh:  City_building_004
+		processing begun of Standard material:  06___Default
+			Ambient texture found "Ka"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  3107
+		num normals        :  3107
+		num uvs            :  6214
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5988
+	processing begun of mesh:  Object010
+		processing begun of Standard material:  21___Default
+		num positions      :  1560
+		num normals        :  1560
+		num uvs            :  3120
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2160
+	processing begun of mesh:  City_building_033
+		registered as also a user of material:  3db___building_06
+		num positions      :  4772
+		num normals        :  4772
+		num uvs            :  9544
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7980
+	processing begun of mesh:  City_building_039
+		processing begun of Standard material:  Material__0
+			Ambient texture found "Ka.007"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.007"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  5278
+		num normals        :  5278
+		num uvs            :  10556
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8292
+	processing begun of mesh:  City_building_031
+		registered as also a user of material:  Material__0
+		num positions      :  5280
+		num normals        :  5280
+		num uvs            :  10560
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8292
+	processing begun of mesh:  City_building_041
+		processing begun of Standard material:  Building_dnt
+			Ambient texture found "Ka.001"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.001"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2257
+		num normals        :  2257
+		num uvs            :  4514
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4176
+	processing begun of mesh:  City_building_032
+		registered as also a user of material:  06___Default
+		num positions      :  3108
+		num normals        :  3108
+		num uvs            :  6216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5988
+	processing begun of mesh:  City_building_040
+		registered as also a user of material:  Material__0
+		num positions      :  5280
+		num normals        :  5280
+		num uvs            :  10560
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8292
+	processing begun of mesh:  City_building_030
+		registered as also a user of material:  Material__0
+		num positions      :  5282
+		num normals        :  5282
+		num uvs            :  10564
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8292
+	processing begun of mesh:  City_building_011
+		registered as also a user of material:  building_16
+		num positions      :  425
+		num normals        :  425
+		num uvs            :  850
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  684
+	processing begun of mesh:  City_building_037
+		registered as also a user of material:  09___Default
+		num positions      :  1853
+		num normals        :  1853
+		num uvs            :  3706
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4530
+	processing begun of mesh:  City_building_024
+		processing begun of Standard material:  building_025
+			Ambient texture found "Ka.003"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.003"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  500
+		num normals        :  500
+		num uvs            :  1000
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  864
+	processing begun of mesh:  Line002
+		processing begun of Standard material:  20___Defaulta
+		num positions      :  52
+		num normals        :  52
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Plane001
+		processing begun of Standard material:  20___Default
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of mesh:  City_building_013
+		registered as also a user of material:  3db___building_06
+		num positions      :  2544
+		num normals        :  2544
+		num uvs            :  5088
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4197
+	processing begun of mesh:  City_building_028
+		registered as also a user of material:  Material__0
+		num positions      :  5282
+		num normals        :  5282
+		num uvs            :  10564
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8292
+	processing begun of mesh:  City_building_001
+		registered as also a user of material:  Building_dnt
+		num positions      :  2250
+		num normals        :  2250
+		num uvs            :  4500
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4176
+	processing begun of mesh:  City_building_022
+		registered as also a user of material:  09___Default
+		num positions      :  3574
+		num normals        :  3574
+		num uvs            :  7148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8496
+	processing begun of mesh:  City_building_010
+		registered as also a user of material:  orig_orig_orig_17___Default
+		num positions      :  3565
+		num normals        :  3565
+		num uvs            :  7130
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4968
+	processing begun of mesh:  City_building_035
+		registered as also a user of material:  Material__0
+		num positions      :  5283
+		num normals        :  5283
+		num uvs            :  10566
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8292
+	processing begun of mesh:  City_building_008
+		registered as also a user of material:  building_025
+		num positions      :  500
+		num normals        :  500
+		num uvs            :  1000
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  864
+	processing begun of mesh:  City_building_014
+		registered as also a user of material:  06___Default
+		num positions      :  3531
+		num normals        :  3531
+		num uvs            :  7062
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6636
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 4.7685 secs

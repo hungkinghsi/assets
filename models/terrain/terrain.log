@@ -1,0 +1,606 @@
+Exporter version: 5.6.3, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  E:\demo\unity\exportFiles\blender\xiaod\
+	Python World class constructor completed
+	processing begun of mesh:  Icosphere.004
+		processing begun of Standard material:  leaf
+		processing begun of Standard material:  tree-body.001
+		processing begun of Standard material:  Material
+		processing begun of multimaterial:  terrain.Multimaterial#0
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.032
+		processing begun of Standard material:  cloud
+		num positions      :  48
+		num normals        :  48
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Cube.005
+		processing begun of Standard material:  çit
+		num positions      :  752
+		num normals        :  752
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3726
+		WARNING: # of 0 area faces found:  374
+	processing begun of mesh:  Cube.001
+		processing begun of Standard material:  house
+		processing begun of Standard material:  roof
+		processing begun of Standard material:  window
+		processing begun of Standard material:  glass
+		processing begun of Standard material:  house-downwall
+		processing begun of multimaterial:  terrain.Multimaterial#1
+		num positions      :  392
+		num normals        :  392
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1284
+		WARNING: # of 0 area faces found:  86
+	processing begun of mesh:  Cube
+		registered as also a user of material:  house
+		registered as also a user of material:  roof
+		registered as also a user of material:  window
+		registered as also a user of material:  glass
+		registered as also a user of material:  house-downwall
+		processing begun of multimaterial:  terrain.Multimaterial#2
+		num positions      :  392
+		num normals        :  392
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1284
+		WARNING: # of 0 area faces found:  86
+	processing begun of mesh:  Cylinder.019
+		processing begun of Standard material:  leaf2
+		processing begun of Standard material:  tree-body
+		processing begun of Standard material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#3
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Icosphere.031
+		registered as also a user of material:  cloud
+		num positions      :  48
+		num normals        :  48
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Icosphere.030
+		registered as also a user of material:  cloud
+		num positions      :  48
+		num normals        :  48
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Icosphere.029
+		registered as also a user of material:  cloud
+		num positions      :  48
+		num normals        :  48
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Icosphere.028
+		registered as also a user of material:  cloud
+		num positions      :  48
+		num normals        :  48
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Cylinder.018
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#4
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Icosphere.027
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#5
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  Icosphere.026
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#6
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Icosphere.025
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#7
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.024
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#8
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.023
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#9
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder.017
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#10
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.016
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#11
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Icosphere.021
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#12
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  Icosphere.020
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#13
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Icosphere.019
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#14
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.018
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#15
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.017
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#16
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Icosphere.016
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#17
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  Cylinder.015
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#18
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.014
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#19
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Icosphere.015
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#20
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  Icosphere.014
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#21
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Icosphere.013
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#22
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.012
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#23
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.011
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#24
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Icosphere.010
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#25
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  Cylinder.013
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#26
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.012
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#27
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Icosphere.009
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#28
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  Icosphere.008
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#29
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Icosphere.007
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#30
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cylinder.011
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#31
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.010
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#32
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.009
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#33
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.008
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#34
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.007
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#35
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.006
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#36
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.005
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#37
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder.004
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#38
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Icosphere.006
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#39
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.005
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#40
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Cylinder.002
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#41
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Icosphere.003
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#42
+		num positions      :  137
+		num normals        :  137
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  774
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Icosphere.002
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#43
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  Icosphere.001
+		registered as also a user of material:  cloud
+		num positions      :  48
+		num normals        :  48
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  Cylinder.001
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		registered as also a user of material:  snow
+		processing begun of multimaterial:  terrain.Multimaterial#44
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Cylinder
+		registered as also a user of material:  leaf2
+		registered as also a user of material:  tree-body
+		processing begun of multimaterial:  terrain.Multimaterial#45
+		num positions      :  60
+		num normals        :  60
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  276
+		WARNING: # of 0 area faces found:  10
+	processing begun of mesh:  Icosphere
+		registered as also a user of material:  leaf
+		registered as also a user of material:  tree-body.001
+		processing begun of multimaterial:  terrain.Multimaterial#46
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  Plane
+		processing begun of Standard material:  terrain
+		processing begun of Standard material:  mountain
+		processing begun of Standard material:  snow.001
+		processing begun of Standard material:  Material.001
+		processing begun of Standard material:  lake
+		processing begun of multimaterial:  terrain.Multimaterial#47
+		num positions      :  732
+		num normals        :  732
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3192
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of light (SUN):  Sun
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.2362 secs
