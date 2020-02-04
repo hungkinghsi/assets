@@ -1,502 +1,502 @@
-#EXTINF:-1,ÑëÊÓÆµµÀ
+#EXTINF:-1,å¤®è§†é¢‘é“
 #genre#
-#EXTINF:-1,CCTV1 ¸ßÇå
+#EXTINF:-1,CCTV1 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
-#EXTINF:-1,CCTV2 ¸ßÇå
+#EXTINF:-1,CCTV2 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
-#EXTINF:-1,CCTV3 ¸ßÇå
+#EXTINF:-1,CCTV3 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
-#EXTINF:-1,CCTV4 ¸ßÇå
+#EXTINF:-1,CCTV4 é«˜æ¸…
 http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1,CCTV5 ¸ßÇå
+#EXTINF:-1,CCTV5 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
-#EXTINF:-1,CCTV6 ¸ßÇå
+#EXTINF:-1,CCTV6 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
-#EXTINF:-1,CCTV7 ¸ßÇå
+#EXTINF:-1,CCTV7 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
-#EXTINF:-1,CCTV8 ¸ßÇå
+#EXTINF:-1,CCTV8 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
-#EXTINF:-1,CCTV9 ¸ßÇå
+#EXTINF:-1,CCTV9 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTVJLHD_H265.m3u8
-#EXTINF:-1,CCTV10 ¸ßÇå
+#EXTINF:-1,CCTV10 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV10HD_H265.m3u8
-#EXTINF:-1,CCTV11 ¸ßÇå
+#EXTINF:-1,CCTV11 é«˜æ¸…
 http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
-#EXTINF:-1,CCTV12 ¸ßÇå
+#EXTINF:-1,CCTV12 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
-#EXTINF:-1,CCTV13 ±êÇå
+#EXTINF:-1,CCTV13 æ ‡æ¸…
 http://125.210.152.18:9090/live/CCTV13_750.m3u8
-#EXTINF:-1,CCTV14 ¸ßÇå
+#EXTINF:-1,CCTV14 é«˜æ¸…
 http://125.210.152.18:9090/live/CCTV14HD_H265.m3u8
-#EXTINF:-1,CCTV15 ¸ßÇå
+#EXTINF:-1,CCTV15 é«˜æ¸…
 http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1,ÎÀÊÓÆµµÀ
+#EXTINF:-1,å«è§†é¢‘é“
 #genre#
-#EXTINF:-1,°²»ÕÎÀÊÓ¸ßÇå
+#EXTINF:-1,å®‰å¾½å«è§†é«˜æ¸…
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=008&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÖØÇìÎÀÊÓ¸ßÇå
+#EXTINF:-1,é‡åº†å«è§†é«˜æ¸…
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,½­ËÕÎÀÊÓ¸ßÇå
+#EXTINF:-1,æ±Ÿè‹å«è§†é«˜æ¸…
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¶«·½ÎÀÊÓ¸ßÇå
+#EXTINF:-1,ä¸œæ–¹å«è§†é«˜æ¸…
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ËÄ´¨ÎÀÊÓ¸ßÇå
+#EXTINF:-1,å››å·å«è§†é«˜æ¸…
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=000&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÉîÛÚÎÀÊÓ¸ßÇå
+#EXTINF:-1,æ·±åœ³å«è§†é«˜æ¸…
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,Ìì½òÎÀÊÓ¸ßÇå
+#EXTINF:-1,å¤©æ´¥å«è§†é«˜æ¸…
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,É½¶«ÎÀÊÓ¸ßÇå
+#EXTINF:-1,å±±ä¸œå«è§†é«˜æ¸…
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=005&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ºÚÁú½­ÎÀÊÓ¸ßÇå
+#EXTINF:-1,é»‘é¾™æ±Ÿå«è§†é«˜æ¸…
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=006&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÔÆÄÏÎÀÊÓ¸ßÇå
+#EXTINF:-1,äº‘å—å«è§†é«˜æ¸…
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¶«·½ÎÀÊÓ¸ßÇå
+#EXTINF:-1,ä¸œæ–¹å«è§†é«˜æ¸…
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,±±¾©ÎÀÊÓ¸ßÇå
+#EXTINF:-1,åŒ—äº¬å«è§†é«˜æ¸…
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=003&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,Ìì½òÎÀÊÓ¸ßÇå
+#EXTINF:-1,å¤©æ´¥å«è§†é«˜æ¸…
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ºş±±ÎÀÊÓ¸ßÇå
+#EXTINF:-1,æ¹–åŒ—å«è§†é«˜æ¸…
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=005&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¹ã¶«ÎÀÊÓ¸ßÇå
+#EXTINF:-1,å¹¿ä¸œå«è§†é«˜æ¸…
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÁÉÄşÎÀÊÓ¸ßÇå
+#EXTINF:-1,è¾½å®å«è§†é«˜æ¸…
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,½­Î÷ÎÀÊÓ
+#EXTINF:-1,æ±Ÿè¥¿å«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¼ªÁÖÎÀÊÓ
+#EXTINF:-1,å‰æ—å«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¸ÊËàÎÀÊÓ
+#EXTINF:-1,ç”˜è‚ƒå«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¹óÖİÎÀÊÓ
+#EXTINF:-1,è´µå·å«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¹ãÎ÷ÎÀÊÓ
+#EXTINF:-1,å¹¿è¥¿å«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,Çàº£ÎÀÊÓ
+#EXTINF:-1,é’æµ·å«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¿µ°ÍÎÀÊÓ
+#EXTINF:-1,åº·å·´å«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,Î÷²ØÎÀÊÓ
+#EXTINF:-1,è¥¿è—å«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ºÓÄÏÎÀÊÓ
+#EXTINF:-1,æ²³å—å«è§†
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=019&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ĞÂ½®ÎÀÊÓ
+#EXTINF:-1,æ–°ç–†å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,½­Î÷ÎÀÊÓ
+#EXTINF:-1,æ±Ÿè¥¿å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÉÂÎ÷ÎÀÊÓ
+#EXTINF:-1,é™•è¥¿å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¸ÊËàÎÀÊÓ
+#EXTINF:-1,ç”˜è‚ƒå«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¶«ÄÏÎÀÊÓ
+#EXTINF:-1,ä¸œå—å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¹óÖİÎÀÊÓ
+#EXTINF:-1,è´µå·å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ºÓ±±ÎÀÊÓ
+#EXTINF:-1,æ²³åŒ—å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,Çàº£ÎÀÊÓ
+#EXTINF:-1,é’æµ·å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÄşÏÄÎÀÊÓ
+#EXTINF:-1,å®å¤å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,Î÷²ØÎÀÊÓ
+#EXTINF:-1,è¥¿è—å«è§†
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,É½Î÷ÎÀÊÓ
+#EXTINF:-1,å±±è¥¿å«è§†
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÉÂÎ÷ÎÀÊÓ
+#EXTINF:-1,é™•è¥¿å«è§†
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,¶«ÄÏÎÀÊÓ
+#EXTINF:-1,ä¸œå—å«è§†
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÂÃÓÎÎÀÊÓ
+#EXTINF:-1,æ—…æ¸¸å«è§†
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ºÓ±±ÎÀÊÓ
+#EXTINF:-1,æ²³åŒ—å«è§†
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÄÚÃÉ¹ÅÎÀÊÓ
+#EXTINF:-1,å†…è’™å¤å«è§†
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ÄşÏÄÎÀÊÓ
+#EXTINF:-1,å®å¤å«è§†
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,µØ·½ÆµµÀ
+#EXTINF:-1,åœ°æ–¹é¢‘é“
 #genre#
-#EXTINF:-1,Öé½­Ì¨±êÇå
+#EXTINF:-1,ç æ±Ÿå°æ ‡æ¸…
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
-#EXTINF:-1,¹ã¶«ĞÂÎÅ
+#EXTINF:-1,å¹¿ä¸œæ–°é—»
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1,¹ã¶«¹«¹²
+#EXTINF:-1,å¹¿ä¸œå…¬å…±
 http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1,¹ã¶«¹ú¼Ê
+#EXTINF:-1,å¹¿ä¸œå›½é™…
 http://nclive.grtn.cn/gjpd/sd/live.m3u8
-#EXTINF:-1,¹ã¶«·¿²ú
+#EXTINF:-1,å¹¿ä¸œæˆ¿äº§
 http://nclive.grtn.cn/fcpd/sd/live.m3u8
-#EXTINF:-1,¹ã¶«¿Æ½Ì
+#EXTINF:-1,å¹¿ä¸œç§‘æ•™
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-#EXTINF:-1,¹ã¶«×ÛÒÕ4K
+#EXTINF:-1,å¹¿ä¸œç»¼è‰º4K
 http://nclive.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1,¹ã¶«ÉÙ¶ù
+#EXTINF:-1,å¹¿ä¸œå°‘å„¿
 http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:-1,¹ã¶«Ó°ÊÓ
+#EXTINF:-1,å¹¿ä¸œå½±è§†
 http://nclive.grtn.cn/tvs4/sd/live.m3u8
-#EXTINF:-1,ÉÇÍ·×ÛºÏ
+#EXTINF:-1,æ±•å¤´ç»¼åˆ
 http://dslive.grtn.cn/stzh/playlist.m3u8?ts
-#EXTINF:-1,ÖĞÉ½½ÌÓı
+#EXTINF:-1,ä¸­å±±æ•™è‚²
 rtmp://183.58.24.152/dreamStreamCore/O06b0Mw/lv800
-#EXTINF:-1,Õ¿½­×ÛºÏ
+#EXTINF:-1,æ¹›æ±Ÿç»¼åˆ
 http://dslive.grtn.cn/zjzh/sd/live.m3u8
-#EXTINF:-1,Ã¯Ãû×ÛºÏ
+#EXTINF:-1,èŒ‚åç»¼åˆ
 http://dslive.grtn.cn/mmzh/sd/live.m3u8
-#EXTINF:-1,½­ÃÅ×ÛºÏ
+#EXTINF:-1,æ±Ÿé—¨ç»¼åˆ
 http://dslive.grtn.cn/jmzh/sd/live.m3u8
-#EXTINF:-1,Öéº£Éú»î
+#EXTINF:-1,ç æµ·ç”Ÿæ´»
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
-#EXTINF:-1,½ÒÑô×ÛºÏ
+#EXTINF:-1,æ­é˜³ç»¼åˆ
 http://dslive.grtn.cn/jyzh/sd/live.m3u8
-#EXTINF:-1,Ñô½­×ÛºÏ
+#EXTINF:-1,é˜³æ±Ÿç»¼åˆ
 http://dslive.grtn.cn/yjzh/sd/live.m3u8
-#EXTINF:-1,ÉØ¹Ø¹«¹²
+#EXTINF:-1,éŸ¶å…³å…¬å…±
 http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
-#EXTINF:-1,Ã·Öİ×ÛºÏ
+#EXTINF:-1,æ¢…å·ç»¼åˆ
 http://dslive.grtn.cn/mzzh/sd/live.m3u8
-#EXTINF:-1,³±Öİ×ÛºÏ
+#EXTINF:-1,æ½®å·ç»¼åˆ
 http://live.zscz0768.com/live/zhpd.m3u8
-#EXTINF:-1,³±Öİ¹«¹²
+#EXTINF:-1,æ½®å·å…¬å…±
 http://live.zscz0768.com/live/ggpd.m3u8
-#EXTINF:-1,ºÓÔ´×ÛºÏ
+#EXTINF:-1,æ²³æºç»¼åˆ
 http://dslive.grtn.cn/hyzh/sd/live.m3u8
-#EXTINF:-1,ÉÇÎ²×ÛºÏ
+#EXTINF:-1,æ±•å°¾ç»¼åˆ
 http://dslive.grtn.cn/swzh/sd/live.m3u8
-#EXTINF:-1,ÔÆ¸¡×ÛºÏ
+#EXTINF:-1,äº‘æµ®ç»¼åˆ
 http://dslive.grtn.cn/yfzh/sd/live.m3u8
-#EXTINF:-1,ÒÆ¶¯»ú³¡
+#EXTINF:-1,ç§»åŠ¨æœºåœº
 http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
-#EXTINF:-1,ÖØÇìÒÆ¶¯
+#EXTINF:-1,é‡åº†ç§»åŠ¨
 http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
-#EXTINF:-1,ÖØÇìÖÒÏØ
+#EXTINF:-1,é‡åº†å¿ å¿
 http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
-#EXTINF:-1,ÖØÇìÍòÊ¢
+#EXTINF:-1,é‡åº†ä¸‡ç››
 http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/chunklist.m3u8
-#EXTINF:-1,ÁºÆ½×ÛºÏ
+#EXTINF:-1,æ¢å¹³ç»¼åˆ
 http://qxlmlive.cbg.cn:1935/app_2/ls_44.stream/chunklist.m3u8
-#EXTINF:-1,½­½òÉú»î
+#EXTINF:-1,æ±Ÿæ´¥ç”Ÿæ´»
 http://jiangjinlive.cbg.cn:1935/ch0.m3u8
-#EXTINF:-1,½­½ò×ÛºÏ
+#EXTINF:-1,æ±Ÿæ´¥ç»¼åˆ
 http://jiangjinlive.cbg.cn:1935/ch1.m3u8
-#EXTINF:-1,½­½òÂÃÓÎ
+#EXTINF:-1,æ±Ÿæ´¥æ—…æ¸¸
 http://jiangjinlive.cbg.cn:1935/ch2.m3u8
-#EXTINF:-1,ÍòÖİÈıÏ¿
+#EXTINF:-1,ä¸‡å·ä¸‰å³¡
 http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1,ÍòÖİÓ°ÊÓ
+#EXTINF:-1,ä¸‡å·å½±è§†
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1,ÍòÖİ×ÛºÏ
+#EXTINF:-1,ä¸‡å·ç»¼åˆ
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-#EXTINF:-1,ÍòÖİ¿Æ½Ì
+#EXTINF:-1,ä¸‡å·ç§‘æ•™
 http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
-#EXTINF:-1,Ä¬¶«ÄÏ×ÛºÏ
+#EXTINF:-1,é»˜ä¸œå—ç»¼åˆ
 http://hls.mlink.tv/mlink/glyKPQRZ.m3u8
-#EXTINF:-1,ÖĞ»ªÌØ²úÌ¨
+#EXTINF:-1,ä¸­åç‰¹äº§å°
 http://play.zhtctv.cn/portal/btv.m3u8
-#EXTINF:-1,¸Û°ÄÆµµÀ
+#EXTINF:-1,æ¸¯æ¾³é¢‘é“
 #genre#
-#EXTINF:-1,TVB-J2 ¸ßÇå
+#EXTINF:-1,TVB-J2 é«˜æ¸…
 http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
-#EXTINF:-1,TVBŸo¾€ĞÂÂ„Ì¨
+#EXTINF:-1,TVBç„¡ç·šæ–°èå°
 P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
-#EXTINF:-1,ĞÂÎÅÌ¨
+#EXTINF:-1,æ–°é—»å°
 https://r05.wscdn.hls.xiaoka.tv/live/cdbtgdcba1c878e2bbab9a68260d5d1ddf3cc41a1/playlist.m3u8
-#EXTINF:-1,TVBôä´ä ¸ßÇå
+#EXTINF:-1,TVBç¿¡ç¿  é«˜æ¸…
 http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
-#EXTINF:-1,TVBÃ÷Öé ¸ßÇå
+#EXTINF:-1,TVBæ˜ç  é«˜æ¸…
 http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
-#EXTINF:-1,TVBĞÇºÓ ¸ßÇå
+#EXTINF:-1,TVBæ˜Ÿæ²³ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
-#EXTINF:-1,TVB¹¦·ò ¸ßÇå
+#EXTINF:-1,TVBåŠŸå¤« é«˜æ¸…
 http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
-#EXTINF:-1,·ï»ËÖĞÎÄÌ¨
+#EXTINF:-1,å‡¤å‡°ä¸­æ–‡å°
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1,HKSÎÀÊÓ ¸ßÇå
+#EXTINF:-1,HKSå«è§† é«˜æ¸…
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1,ĞÇ¿ÕÎÀÊÓ ¸ßÇå
+#EXTINF:-1,æ˜Ÿç©ºå«è§† é«˜æ¸…
 http://iptv.pdsu.edu.cn/hls/startv.m3u8
-#EXTINF:-1,¶«É­Ï·¾ç ¸ßÇå
+#EXTINF:-1,ä¸œæ£®æˆå‰§ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/17cdea424a288175c834060c58b3bb4e.flv
-#EXTINF:-1,¶«É­²Æ¾­ ¸ßÇå
+#EXTINF:-1,ä¸œæ£®è´¢ç» é«˜æ¸…
 http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.flv
-#EXTINF:-1,¶«É­ĞÂÎÅ ¸ßÇå
+#EXTINF:-1,ä¸œæ£®æ–°é—» é«˜æ¸…
 http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flv
-#EXTINF:-1,¶«É­×ÛºÏ ¸ßÇå
+#EXTINF:-1,ä¸œæ£®ç»¼åˆ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/7485194388c0ca1d43a664701afb2ff2.flv
-#EXTINF:-1,Áú»ªÅ¼Ïñ ¸ßÇå
+#EXTINF:-1,é¾™åå¶åƒ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
-#EXTINF:-1,Áú»ªÏ·¾ç ¸ßÇå
+#EXTINF:-1,é¾™åæˆå‰§ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/b40ec839440a97d24d0aee0c69d186a1.flv
-#EXTINF:-1,Áú»ªÓ°¾ç ¸ßÇå
+#EXTINF:-1,é¾™åå½±å‰§ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
-#EXTINF:-1,°Ë´óÓéÀÖ ¸ßÇå
+#EXTINF:-1,å…«å¤§å¨±ä¹ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/31c5b2c0fa7ac37b2e1447befb076d08.flv
-#EXTINF:-1,å¾ÓîĞÂÎÅ ¸ßÇå
+#EXTINF:-1,å¯°å®‡æ–°é—» é«˜æ¸…
 http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flv
-#EXTINF:-1,å¾ÓîĞÂÎÅ2 ¸ßÇå
+#EXTINF:-1,å¯°å®‡æ–°é—»2 é«˜æ¸…
 http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
-#EXTINF:-1,·Ç·²ĞÂÎÅ ¸ßÇå
+#EXTINF:-1,éå‡¡æ–°é—» é«˜æ¸…
 http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
-#EXTINF:-1,Ì¨ÍåÖĞÊÓ ¸ßÇå
+#EXTINF:-1,å°æ¹¾ä¸­è§† é«˜æ¸…
 http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
-#EXTINF:-1,Ì¨Íå¹«ÊÓ ¸ßÇå
+#EXTINF:-1,å°æ¹¾å…¬è§† é«˜æ¸…
 http://cloud-play.hhalloy.com/live/0be9e52678b937320897033d90bb268a.flv
-#EXTINF:-1,Ì¨ÍåÌ¨ÊÓ ¸ßÇå
+#EXTINF:-1,å°æ¹¾å°è§† é«˜æ¸…
 http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
-#EXTINF:-1,Ì¨ÍåTVBS ¸ßÇå
+#EXTINF:-1,å°æ¹¾TVBS é«˜æ¸…
 http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flv
-#EXTINF:-1,Ì¨Íå»ªÊÓ ¸ßÇå
+#EXTINF:-1,å°æ¹¾åè§† é«˜æ¸…
 http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv
-#EXTINF:-1,ÖĞÊÓĞÂÎÅ ¸ßÇå
+#EXTINF:-1,ä¸­è§†æ–°é—» é«˜æ¸…
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
-#EXTINF:-1,ÖĞÌì×ÛºÏ ¸ßÇå
+#EXTINF:-1,ä¸­å¤©ç»¼åˆ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/64ce4daa355bd6784904e72fabb7fa3e.flv
-#EXTINF:-1,ÖĞÌìÓéÀÖ ¸ßÇå
+#EXTINF:-1,ä¸­å¤©å¨±ä¹ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/25ea449d554a16ec584e82d039065e5f.flv
-#EXTINF:-1,¾¸ÌìÓıÀÖ ¸ßÇå
+#EXTINF:-1,é–å¤©è‚²ä¹ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/b4b4eb536ffc346864d2dcc03adedd85.flv
-#EXTINF:-1,¾¸ÌìÏ·¾ç ¸ßÇå
+#EXTINF:-1,é–å¤©æˆå‰§ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/4c3b3fa6235fce99e794a16e096c2e1b.flv
-#EXTINF:-1,¾¸Ìì¹ú¼Ê ¸ßÇå
+#EXTINF:-1,é–å¤©å›½é™… é«˜æ¸…
 http://cloud-play.hhalloy.com/live/cbd38069eb1e8b2c04e356c22baac506.flv
-#EXTINF:-1,¾¸ÌìÈÕ±¾ ¸ßÇå
+#EXTINF:-1,é–å¤©æ—¥æœ¬ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/031b3e399e9530310abc135a0b19a8ac.flv
-#EXTINF:-1,¾¸ÌìÓ³»­ ¸ßÇå
+#EXTINF:-1,é–å¤©æ˜ ç”» é«˜æ¸…
 http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
-#EXTINF:-1,ÈıÁ¢Ì¨Íå ¸ßÇå
+#EXTINF:-1,ä¸‰ç«‹å°æ¹¾ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.flv
-#EXTINF:-1,ÈıÁ¢¶¼»á ¸ßÇå
+#EXTINF:-1,ä¸‰ç«‹éƒ½ä¼š é«˜æ¸…
 http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flv
-#EXTINF:-1,¶«·ç37 ¸ßÇå
+#EXTINF:-1,ä¸œé£37 é«˜æ¸…
 http://cloud-play.hhalloy.com/live/0b2e19ee2374470b5dede1013afcb4b5.flv
-#EXTINF:-1,µçÓ°ÆµµÀ
+#EXTINF:-1,ç”µå½±é¢‘é“
 #genre#
-#EXTINF:-1,ÃÀÑÇµçÓ° ¸ßÇå
+#EXTINF:-1,ç¾äºšç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
-#EXTINF:-1,Áú»ªÑóÆ¬ ¸ßÇå
+#EXTINF:-1,é¾™åæ´‹ç‰‡ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
-#EXTINF:-1,Áú»ªµçÓ° ¸ßÇå
+#EXTINF:-1,é¾™åç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
-#EXTINF:-1,ºÃÈR‰]µçÓ° ¸ßÇå
+#EXTINF:-1,å¥½èŠå¡¢ç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
-#EXTINF:-1,Î³À´µçÓ° ¸ßÇå
+#EXTINF:-1,çº¬æ¥ç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
-#EXTINF:-1,¾¸ÌìµçÓ° ¸ßÇå
+#EXTINF:-1,é–å¤©ç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
-#EXTINF:-1,¶«É­µçÓ° ¸ßÇå
+#EXTINF:-1,ä¸œæ£®ç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
-#EXTINF:-1,¶«É­ÑóÆ¬ ¸ßÇå
+#EXTINF:-1,ä¸œæ£®æ´‹ç‰‡ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
-#EXTINF:-1,ÁúÏéÊ±´ú ¸ßÇå
+#EXTINF:-1,é¾™ç¥¥æ—¶ä»£ é«˜æ¸…
 http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
-#EXTINF:-1,ÎÀÊÓµçÓ° ¸ßÇå
+#EXTINF:-1,å«è§†ç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
-#EXTINF:-1,HBO-HD ¸ßÇå
+#EXTINF:-1,HBO-HD é«˜æ¸…
 http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv#http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1,¶«·½µçÓ° ¸ßÇå
+#EXTINF:-1,ä¸œæ–¹ç”µå½± é«˜æ¸…
 http://sousou2.top/dl/migu.php?id=623674834
-#EXTINF:-1,Öé½­µçÓ°
+#EXTINF:-1,ç æ±Ÿç”µå½±
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1,·ï»ËµçÓ° ¸ßÇå
+#EXTINF:-1,å‡¤å‡°ç”µå½± é«˜æ¸…
 http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA#http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1,ĞÇÎÀµçÓ° ¸ßÇå
+#EXTINF:-1,æ˜Ÿå«ç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
-#EXTINF:-1,Ó°ÃÔµçÓ° ¸ßÇå
+#EXTINF:-1,å½±è¿·ç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
-#EXTINF:-1,CatchPlayµçÓ° ¸ßÇå
+#EXTINF:-1,CatchPlayç”µå½± é«˜æ¸…
 http://cloud-play.hhalloy.com/live/65e80e1e0cd763a0302d7aa2a1135b0b.flv
-#EXTINF:-1,ĞÇÓ° ±êÇå
+#EXTINF:-1,æ˜Ÿå½± æ ‡æ¸…
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
-#EXTINF:-1,CHC¸ßÇåµçÓ° ¸ßÇå
+#EXTINF:-1,CHCé«˜æ¸…ç”µå½± é«˜æ¸…
 rtmp://218.94.137.117/iptv/chchd
-#EXTINF:-1,CHC¶¯×÷µçÓ° ¸ßÇå
+#EXTINF:-1,CHCåŠ¨ä½œç”µå½± é«˜æ¸…
 rtmp://218.94.137.117/iptv/chcatv
-#EXTINF:-1,CHC¼ÒÍ¥Ó°Ôº ¸ßÇå
+#EXTINF:-1,CHCå®¶åº­å½±é™¢ é«˜æ¸…
 rtmp://218.94.137.117/iptv/chctv
-#EXTINF:-1,ºÓ±±Ó°ÊÓ ±êÇå
+#EXTINF:-1,æ²³åŒ—å½±è§† æ ‡æ¸…
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
-#EXTINF:-1,À×öªµçÓ°
+#EXTINF:-1,é›·éœ†ç”µå½±
 #genre#
-#EXTINF:-1,ÁÖÕıÓ¢
+#EXTINF:-1,æ—æ­£è‹±
 https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1,ÀîÁ¬½Ü
+#EXTINF:-1,æè¿æ°
 https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-#EXTINF:-1,³ÉÁú
+#EXTINF:-1,æˆé¾™
 https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1,ÁÖÕıÓ¢2
+#EXTINF:-1,æ—æ­£è‹±2
 https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
-#EXTINF:-1,»Æ²³
+#EXTINF:-1,é»„æ¸¤
 https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Îâ¾©
+#EXTINF:-1,å´äº¬
 https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1,ÖÜÈó·¢
+#EXTINF:-1,å‘¨æ¶¦å‘
 https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1,ÁõµÂ»ª
+#EXTINF:-1,åˆ˜å¾·å
 https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Ğìá¿
+#EXTINF:-1,å¾å³¥
 https://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
-#EXTINF:-1,ºé½ğ±¦
+#EXTINF:-1,æ´ªé‡‘å®
 https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Õç×Óµ¤
+#EXTINF:-1,ç”„å­ä¸¹
 https://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
-#EXTINF:-1,³¬¼¶Ó¢ĞÛ
+#EXTINF:-1,è¶…çº§è‹±é›„
 https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Å®ÉñÏµÁĞ2
+#EXTINF:-1,å¥³ç¥ç³»åˆ—2
 https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Îå¸£ĞÇÏµÁĞ
+#EXTINF:-1,äº”ç¦æ˜Ÿç³»åˆ—
 https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
-#EXTINF:-1,ºÚ°ï´óÆ¬
+#EXTINF:-1,é»‘å¸®å¤§ç‰‡
 https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
-#EXTINF:-1,¶¥¼¶¿Æ»Ã
+#EXTINF:-1,é¡¶çº§ç§‘å¹»
 https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1,ËÙ¶ÈÓë¼¤Çé
+#EXTINF:-1,é€Ÿåº¦ä¸æ¿€æƒ…
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,¾ªã¤´óÆ¬
+#EXTINF:-1,æƒŠæ‚šå¤§ç‰‡
 https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
-#EXTINF:-1,¸ãĞ¦¸ÛÆ¬
+#EXTINF:-1,æç¬‘æ¸¯ç‰‡
 https://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8
-#EXTINF:-1,½ğÓ¹·çÔÆµçÓ°
+#EXTINF:-1,é‡‘åº¸é£äº‘ç”µå½±
 https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Éú»¯Î£»ú
+#EXTINF:-1,ç”ŸåŒ–å±æœº
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1,ËÀÉñÀ´ÁË
+#EXTINF:-1,æ­»ç¥æ¥äº†
 https://txdirect.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
-#EXTINF:-1,µÏÊ¿Äá
+#EXTINF:-1,è¿ªå£«å°¼
 https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
-#EXTINF:-1,ÔÖÄÑ
+#EXTINF:-1,ç¾éš¾
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1,Å®ÉñÏµÁĞ3
+#EXTINF:-1,å¥³ç¥ç³»åˆ—3
 https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
-#EXTINF:-1,CLUBÆµµÀ
+#EXTINF:-1,CLUBé¢‘é“
 #genre#
-#EXTINF:-1,CIBNµçÓ°
+#EXTINF:-1,CIBNç”µå½±
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNàË²¥
+#EXTINF:-1,CIBNå—¨æ’­
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN¾üÊÂ
+#EXTINF:-1,CIBNå†›äº‹
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNÉú»î
+#EXTINF:-1,CIBNç”Ÿæ´»
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN½ÌÓı
+#EXTINF:-1,CIBNæ•™è‚²
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNÆû³µ
+#EXTINF:-1,CIBNæ±½è½¦
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNÎ¢µçÓ°
+#EXTINF:-1,CIBNå¾®ç”µå½±
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNººÑ§Ôº
+#EXTINF:-1,CIBNæ±‰å­¦é™¢
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN¼ÍÂ¼Æ¬
+#EXTINF:-1,CIBNçºªå½•ç‰‡
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNµçÓ°µ¼ÊÓ
+#EXTINF:-1,CIBNç”µå½±å¯¼è§†
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN¾«Æ·Ó°Ôº
+#EXTINF:-1,CIBNç²¾å“å½±é™¢
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNÇé¸ĞÓ°Ôº
+#EXTINF:-1,CIBNæƒ…æ„Ÿå½±é™¢
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNÏ²¾çÓ°Ôº
+#EXTINF:-1,CIBNå–œå‰§å½±é™¢
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN¹Å×°¾ç³¡
+#EXTINF:-1,CIBNå¤è£…å‰§åœº
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN½¾Ñô¾ç³¡
+#EXTINF:-1,CIBNéª„é˜³å‰§åœº
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNìÅ¼Ñ¶¯Âş
+#EXTINF:-1,CIBNç‚«ä½³åŠ¨æ¼«
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNÍ¯Ñ§ÊÀ½ç
+#EXTINF:-1,CIBNç«¥å­¦ä¸–ç•Œ
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNÎÄ»¯ÖĞ¹ú
+#EXTINF:-1,CIBNæ–‡åŒ–ä¸­å›½
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBNÒÕÊõÔºÏß
+#EXTINF:-1,CIBNè‰ºæœ¯é™¢çº¿
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,ÌìÑÛÆµµÀ
+#EXTINF:-1,å¤©çœ¼é¢‘é“
 #genre#
-#EXTINF:-1,È«¹ú·ç¾°×ÜÀÀ
+#EXTINF:-1,å…¨å›½é£æ™¯æ€»è§ˆ
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,÷ğÏØºê´åÔÂÕÓ
+#EXTINF:-1,é»Ÿå¿å®æ‘æœˆæ²¼
 https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,÷ğÏØºê´åÄÏºş
+#EXTINF:-1,é»Ÿå¿å®æ‘å—æ¹–
 https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,÷ğÏØÎ÷µİÅÆ·»
+#EXTINF:-1,é»Ÿå¿è¥¿é€’ç‰ŒåŠ
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,÷ğÏØÎ÷µİ°ëÉ½Í¤¸©î«
+#EXTINF:-1,é»Ÿå¿è¥¿é€’åŠå±±äº­ä¿¯ç°
 https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,»ÆÉ½ÎÔÔÆ·å
+#EXTINF:-1,é»„å±±å§äº‘å³°
 https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,»ÆÉ½ÅÅÔÆÍ¤
+#EXTINF:-1,é»„å±±æ’äº‘äº­
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,»ÆÉ½Î÷º£´óÏ¿¹È
+#EXTINF:-1,é»„å±±è¥¿æµ·å¤§å³¡è°·
 https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,»ÆÉ½Æ½Ìì³M
+#EXTINF:-1,é»„å±±å¹³å¤©çŸ¼
 https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÔÆÌ¨É½ºìÊ¯íÌ
+#EXTINF:-1,äº‘å°å±±çº¢çŸ³ç¡–
 https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ì©É½Ö÷·å
+#EXTINF:-1,æ³°å±±ä¸»å³°
 https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ì©É½Ó­¿ÍËÉ
+#EXTINF:-1,æ³°å±±è¿å®¢æ¾
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ì©É½´ó¹Û·å
+#EXTINF:-1,æ³°å±±å¤§è§‚å³°
 https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ì©É½¹°±±Ê¯
+#EXTINF:-1,æ³°å±±æ‹±åŒ—çŸ³
 https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ì©É½Ê®°ËÅÌ
+#EXTINF:-1,æ³°å±±åå…«ç›˜
 https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ì©É½Óñ»Ê¶¥
+#EXTINF:-1,æ³°å±±ç‰çš‡é¡¶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ó¡Ïó´óºìÅÛ
+#EXTINF:-1,å°è±¡å¤§çº¢è¢
 https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÎäÒÄÉ½´óºìÅÛ²èÔ°
+#EXTINF:-1,æ­¦å¤·å±±å¤§çº¢è¢èŒ¶å›­
 https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÕÅ¼Ò½ç½«¾üÁĞ¶Ó
+#EXTINF:-1,å¼ å®¶ç•Œå°†å†›åˆ—é˜Ÿ
 https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÕÅ¼Ò½ç°¢·²´ïĞü¸¡É½
+#EXTINF:-1,å¼ å®¶ç•Œé˜¿å‡¡è¾¾æ‚¬æµ®å±±
 https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ë®³¤³Ç¾µÍ·Ò»
+#EXTINF:-1,æ°´é•¿åŸé•œå¤´ä¸€
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ë®³¤³Ç¾µÍ·¶ş
+#EXTINF:-1,æ°´é•¿åŸé•œå¤´äºŒ
 https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,´óÑĞ»¨Ïï¾°¹ÛÌ¨
+#EXTINF:-1,å¤§ç ”èŠ±å··æ™¯è§‚å°
 https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,¶ëÃ¼ÔÆº£ÈÕ³ö
+#EXTINF:-1,å³¨çœ‰äº‘æµ·æ—¥å‡º
 https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,¹±¸ÂÑ©É½
+#EXTINF:-1,è´¡å˜é›ªå±±
 https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ô¶Ì÷Íò·ğ¶¥
+#EXTINF:-1,è¿œçœºä¸‡ä½›é¡¶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÆÕÏÍÆĞÈøÏñ
+#EXTINF:-1,æ™®è´¤è©è¨åƒ
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ğü¿ÕËÂÈ«¾°
+#EXTINF:-1,æ‚¬ç©ºå¯ºå…¨æ™¯
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ºã×Ú
+#EXTINF:-1,æ’å®—
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ğü¿ÕËÂ²à¾°
+#EXTINF:-1,æ‚¬ç©ºå¯ºä¾§æ™¯
 https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÌìÑÄÄñî«
+#EXTINF:-1,å¤©æ¶¯é¸Ÿç°
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÌìÑÄÊ¯
+#EXTINF:-1,å¤©æ¶¯çŸ³
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÄÏÌìÒ»Öù
+#EXTINF:-1,å—å¤©ä¸€æŸ±
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ñ©Ïç´óÊ¯±®
+#EXTINF:-1,é›ªä¹¡å¤§çŸ³ç¢‘
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,Ñ©ÏçÃÎ»Ã¼ÒÔ°
+#EXTINF:-1,é›ªä¹¡æ¢¦å¹»å®¶å›­
 https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,¼ÎÓø¹Ø³¤³Ç
+#EXTINF:-1,å˜‰å³ªå…³é•¿åŸ
 https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÖĞÑëµçÊÓÌ¨ÖĞËş¶«
+#EXTINF:-1,ä¸­å¤®ç”µè§†å°ä¸­å¡”ä¸œ
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,ÖĞÑëµçÊÓÌ¨ÖĞËş±±
+#EXTINF:-1,ä¸­å¤®ç”µè§†å°ä¸­å¡”åŒ—
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,¾­µäÆµµÀ
+#EXTINF:-1,ç»å…¸é¢‘é“
 #genre#
-#EXTINF:-1,ÉÛÊÏ¾­µäÓ°Ôº
+#EXTINF:-1,é‚µæ°ç»å…¸å½±é™¢
 http://tx2play1.douyucdn.cn/live/4246519r2PyXpWfo_2000.xs?playid=ac139a0509259fd0d86b2b2d6009d520&uuid=704828da-33d3-4b60-ab2d-d83ca948a205.m3u8
-#EXTINF:-1,ÆëÓ°ÊÓºÃÀ³ÎëÆµµÀ
+#EXTINF:-1,é½å½±è§†å¥½è±åé¢‘é“
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/295692_5L4Eq.m3u8
-#EXTINF:-1,ÆëÓ°ÊÓ¿¨Ê½Ì¨
+#EXTINF:-1,é½å½±è§†å¡å¼å°
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8 
-#EXTINF:-1,ÆëÓ°ÊÓ¹¦·òÌ¨
+#EXTINF:-1,é½å½±è§†åŠŸå¤«å°
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8 
-#EXTINF:-1,Î÷Ê©ÆµµÀ_999
+#EXTINF:-1,è¥¿æ–½é¢‘é“_999
 #genre#
 #EXTINF:-1,1
 https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
